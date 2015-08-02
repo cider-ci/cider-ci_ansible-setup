@@ -1,2 +1,0 @@
-db_backups_enabled: False
-db_backups_dir: /var/local/backups

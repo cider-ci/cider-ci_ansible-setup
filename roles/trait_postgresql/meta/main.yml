@@ -1,4 +1,0 @@
-dependencies:
-- role: postgresql
-  postgresql_version: 9.4
-

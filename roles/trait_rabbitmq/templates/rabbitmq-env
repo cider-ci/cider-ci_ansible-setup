@@ -1,4 +1,0 @@
-export 'RABBITMQ_USER'='{{user}}'
-export 'RABBITMQ_VHOST'='{{user}}'
-export 'RABBITMQ_PASSWORD'='{{user}}'
-export 'RABBITMQ_MANAGEMENT_PORT'=15672

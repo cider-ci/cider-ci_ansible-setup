@@ -1,7 +1,0 @@
-dependencies:
-- role: rbenv-ruby
-  user: '{{executor_execution_user}}'
-  ruby: '{{ruby_2_2}}'
-
-
-

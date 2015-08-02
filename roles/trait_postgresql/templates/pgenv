@@ -1,4 +1,0 @@
-export 'PGUSER'='{{user}}'
-export 'PGPORT'='{{postgresql_port}}'
-export 'PGPASSWORD'='{{user}}'
-export 'PGDATABASE'='{{user}}'

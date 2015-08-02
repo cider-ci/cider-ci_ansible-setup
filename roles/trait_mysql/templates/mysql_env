@@ -1,2 +1,0 @@
-export 'MYSQL_USER'='{{executor_execution_user | truncate(16,'') }}'
-export 'MYSQL_PASSWORD'='{{executor_execution_user}}'
